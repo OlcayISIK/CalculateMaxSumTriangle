@@ -1,0 +1,13 @@
+C:\Git\PIWorkStudyCase\CalculateMaxSumOfNumbers\obj\Debug\netcoreapp3.1\CalculateMaxSumOfNumbers.csprojAssemblyReference.cache
+C:\Git\PIWorkStudyCase\CalculateMaxSumOfNumbers\obj\Debug\netcoreapp3.1\CalculateMaxSumOfNumbers.AssemblyInfoInputs.cache
+C:\Git\PIWorkStudyCase\CalculateMaxSumOfNumbers\obj\Debug\netcoreapp3.1\CalculateMaxSumOfNumbers.AssemblyInfo.cs
+C:\Git\PIWorkStudyCase\CalculateMaxSumOfNumbers\obj\Debug\netcoreapp3.1\CalculateMaxSumOfNumbers.csproj.CoreCompileInputs.cache
+C:\Git\PIWorkStudyCase\CalculateMaxSumOfNumbers\bin\Debug\netcoreapp3.1\CalculateMaxSumOfNumbers.exe
+C:\Git\PIWorkStudyCase\CalculateMaxSumOfNumbers\bin\Debug\netcoreapp3.1\CalculateMaxSumOfNumbers.deps.json
+C:\Git\PIWorkStudyCase\CalculateMaxSumOfNumbers\bin\Debug\netcoreapp3.1\CalculateMaxSumOfNumbers.runtimeconfig.json
+C:\Git\PIWorkStudyCase\CalculateMaxSumOfNumbers\bin\Debug\netcoreapp3.1\CalculateMaxSumOfNumbers.runtimeconfig.dev.json
+C:\Git\PIWorkStudyCase\CalculateMaxSumOfNumbers\bin\Debug\netcoreapp3.1\CalculateMaxSumOfNumbers.dll
+C:\Git\PIWorkStudyCase\CalculateMaxSumOfNumbers\bin\Debug\netcoreapp3.1\CalculateMaxSumOfNumbers.pdb
+C:\Git\PIWorkStudyCase\CalculateMaxSumOfNumbers\obj\Debug\netcoreapp3.1\CalculateMaxSumOfNumbers.dll
+C:\Git\PIWorkStudyCase\CalculateMaxSumOfNumbers\obj\Debug\netcoreapp3.1\CalculateMaxSumOfNumbers.pdb
+C:\Git\PIWorkStudyCase\CalculateMaxSumOfNumbers\obj\Debug\netcoreapp3.1\CalculateMaxSumOfNumbers.genruntimeconfig.cache
