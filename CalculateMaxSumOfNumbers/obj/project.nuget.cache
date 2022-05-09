@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CtjXVC5PWdKHl6gyhUiPoTZRYeWb1PmdDHYb1Y5ccM4DL+rE0HH8Rb9dW7e4lut/0Quf7s9q8KkLsHd6fdRZpA==",
+  "dgSpecHash": "lMI1IKmMaO3+CijemhACYYphiOQsFs3BYK3OsRs4OPDlili3qMmmpnOpsmwIaIu565zl2dk3d+4de6uCUuRYBw==",
   "success": true,
-  "projectFilePath": "C:\\Git\\PIWorkStudyCase\\CalculateMaxSumOfNumbers\\CalculateMaxSumOfNumbers.csproj",
+  "projectFilePath": "D:\\Github\\TestCase\\CalculateMaxSumOfNumbers\\CalculateMaxSumOfNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
